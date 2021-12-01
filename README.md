@@ -24,5 +24,5 @@ print('Eigen values are',values,'and Eigen Vectors are',vectors)
 
 ![image](https://user-images.githubusercontent.com/94164665/143820962-bb5467ba-3890-45c0-bf83-90b23dd2c613.png)
 
-## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program.
+## Result: 
+Thus the Eigen value and Eigen vector is successfully solved using python program.
